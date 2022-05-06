@@ -24,3 +24,6 @@ venv
 
 # python win libs
 **.pyd
+
+# Distribution / packaging
+*.egg-info/
